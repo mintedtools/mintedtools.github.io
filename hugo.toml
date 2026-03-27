@@ -1,4 +1,4 @@
-baseURL = 'https://localhost/'
+baseURL = 'https://mintedtools.github.io/Error-Code-Hub/'
 locale = 'en-us'
 title = 'Error Code Hub'
 theme = 'blowfish'

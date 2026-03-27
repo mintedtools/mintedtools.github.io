@@ -3,279 +3,279 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/devices/appliances/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/bosch/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/bosch/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/maytag/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/maytag/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/samsung/0/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/samsung/0/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/samsung/1c/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/samsung/1c/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/samsung/3c/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/samsung/3c/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/samsung/3cp/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/samsung/3cp/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/samsung/4c/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/samsung/4c/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/samsung/4c2/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/samsung/4c2/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/samsung/5c/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/samsung/5c/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/samsung/8c/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/samsung/8c/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/samsung/8c1/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/samsung/8c1/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/samsung/8c2/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/samsung/8c2/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/samsung/9c1/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/samsung/9c1/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/samsung/9c2/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/samsung/9c2/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/samsung/ac/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/samsung/ac/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/samsung/ac6/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/samsung/ac6/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/samsung/dc/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/samsung/dc/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/samsung/dc1/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/samsung/dc1/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/samsung/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/samsung/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/samsung/hc/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/samsung/hc/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/samsung/lc/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/samsung/lc/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/samsung/lc1/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/samsung/lc1/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/samsung/oc/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/samsung/oc/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/samsung/sf/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/samsung/sf/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/samsung/ub/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/samsung/ub/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/samsung/uc/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/samsung/uc/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/det/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/det/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f0-e1/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f0-e1/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f0-e2/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f0-e2/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f0-e3/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f0-e3/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f0-e5/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f0-e5/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f06/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f06/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f07/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f07/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f09/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f09/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f1-e1/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f1-e1/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f1/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f1/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f11/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f11/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f14/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f14/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f15/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f15/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f2/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f2/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f22/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f22/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f23/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f23/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f24/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f24/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f25/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f25/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f26/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f26/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f27/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f27/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f28/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f28/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f29/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f29/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f3-e1/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f3-e1/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f3-e2/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f3-e2/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f30/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f30/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f31/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f31/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f32/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f32/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f33/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f33/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f34/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f34/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f35/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f35/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f36/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f36/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f37/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f37/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f40/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f40/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f41/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f41/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f42/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f42/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f43/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f43/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f48/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f48/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f5-e2/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f5-e2/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f5-e3/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f5-e3/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f5/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f5/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f51/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f51/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f52/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f52/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f54/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f54/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f6-e3/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f6-e3/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f7-e1/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f7-e1/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f7-e7/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f7-e7/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f7/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f7/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f72/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f72/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f73/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f73/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f8-e1/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f8-e1/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f8-e3/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f8-e3/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f8/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f8/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f83/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f83/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f84/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f84/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f9-e1/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f9-e1/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f9/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f9/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/f99/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/f99/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/lo-fl/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/lo-fl/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/loc/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/loc/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/sud/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/sud/</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/devices/appliances/washer/whirlpool/suds/</loc>
+    <loc>http://localhost:1313/Error-Code-Hub/devices/appliances/washer/whirlpool/suds/</loc>
   </url>
 </urlset>
