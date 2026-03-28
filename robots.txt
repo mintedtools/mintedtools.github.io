@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mintedtools.github.io/sitemap.xml
