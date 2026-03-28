@@ -9,5 +9,15 @@
     <copyright>© 2026 </copyright>
     <atom:link href="https://mintedtools.github.io/error-code-hub/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Test Page</title>
+      <link>https://mintedtools.github.io/error-code-hub/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mintedtools.github.io/error-code-hub/test/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

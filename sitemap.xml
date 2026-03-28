@@ -158,6 +158,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://mintedtools.github.io/error-code-hub/test/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://mintedtools.github.io/error-code-hub/devices/appliances/washer/whirlpool/det/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
